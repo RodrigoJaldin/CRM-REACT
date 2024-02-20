@@ -1,0 +1,48 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan car",
+      "empresa": "Cocacola",
+      "email": "juan@cocacola.com",
+      "telefono": "102013313",
+      "notas": "tu  mamama",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@cocacola.com",
+      "empresa": "Cocacola"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@cocacola.com",
+      "empresa": "Cocacola"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@cocacola.com",
+      "empresa": "Cocacola"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@cocacola.com",
+      "empresa": "Cocacola"
+    },
+    {
+      "nombre": "rodrigo",
+      "empresa": "casa",
+      "email": "djaldintaboada@gmail.com",
+      "telefono": "73982631",
+      "notas": "rodrigo el mejor",
+      "id": 6
+    }
+  ]
+}
